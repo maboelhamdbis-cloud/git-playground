@@ -34,3 +34,16 @@
 
 18- git stash clear
 
+19- git reset --hard Head~1
+
+20- git reset --soft Head~1
+
+21- git branch -d BranchName
+
+22- git branch -D BranchName
+
+23- git reflog
+
+24- git merge
+
+25- git cherry-pick CommitId
