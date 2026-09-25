@@ -1,0 +1,36 @@
+1- git init 
+
+2- git add
+
+3- git commit -m ""
+
+4- git push origin BranchName
+
+5- git push -u origin BranchName
+
+6- git push
+
+7- git checkout BranchName
+
+8- git switch BranchName
+
+9- git branch BranchName
+
+10- git switch -b BranchName
+
+11- git status 
+
+12- git log
+
+13- git stash
+
+14- git stash list 
+
+15- git stash apply Number
+
+16- git stash drop Number
+
+17- git stash pop Number
+
+18- git stash clear
+
